@@ -1,0 +1,62 @@
+[
+  {
+    "seatNo": 4,
+    "items": [
+      {
+        "productId": 2,
+        "quantity": 3,
+        "size": "Small",
+        "instructions": "",
+        "cartItemId": "2-Small-1756376507116",
+        "status": "delivered",
+        "productName": "Tofu Stir-fry",
+        "unitPrice": 22,
+        "itemTotal": 66
+      },
+      {
+        "productId": 4,
+        "quantity": 3,
+        "size": "Small",
+        "instructions": "",
+        "cartItemId": "4-Small-1756376508972",
+        "status": "delivered",
+        "productName": "Steel-Cut Oatmeal",
+        "unitPrice": 9,
+        "itemTotal": 27
+      }
+    ],
+    "closed": true,
+    "grandTotal": 93,
+    "closedAt": "2025-08-28T10:22:02.917Z"
+  },
+  {
+    "seatNo": 2,
+    "items": [
+      {
+        "productId": 3,
+        "quantity": 3,
+        "size": "Small",
+        "instructions": "",
+        "cartItemId": "3-Small-1756376501145",
+        "status": "delivered",
+        "productName": "Spicy Edamame",
+        "unitPrice": 8,
+        "itemTotal": 24
+      },
+      {
+        "productId": 2,
+        "quantity": 3,
+        "size": "Small",
+        "instructions": "",
+        "cartItemId": "2-Small-1756376503720",
+        "status": "delivered",
+        "productName": "Tofu Stir-fry",
+        "unitPrice": 22,
+        "itemTotal": 66
+      }
+    ],
+    "closed": true,
+    "grandTotal": 90,
+    "closedAt": "2025-08-28T10:22:20.565Z"
+  }
+]
